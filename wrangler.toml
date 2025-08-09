@@ -1,4 +1,4 @@
-name = "getunicloud"
+name = "shrill-thunder-c6a7"
 main = "src/index.ts"
 compatibility_date = "2023-03-16"
 
@@ -11,4 +11,5 @@ enabled = true
 # SpaceAppId: 2021004134605314
 # 上传域名: https://u.object.cloudrun.cloudbaseapp.cn
 # 下载域名: https://env-00jxt0xsffn5.normal.cloudstatic.cn
+
 # 请求域名: https://env-00jxt0xsffn5.api-hz.cloudbasefunction.cn
